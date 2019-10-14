@@ -1,0 +1,2 @@
+# crackzippassword
+修改7z源码支持暴力破解zip压缩文件
